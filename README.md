@@ -6,3 +6,7 @@
 <p><li>uyg2: Paragraphs Etiketi Kullanımı</li></p>
 <p><li>uyg3: Biçimlendirme Etiketleri Kullanımı</li></p>
 <p><li>uyg4: Sıralı Sırasız Liste Kullanımı</li></p>
+
+
+<h2><li>241002</li></h2>
+<p><li>quiz: Metin Biçimlendirme Etiketleri ve Liste Etiketleri</li></p>
