@@ -18,6 +18,7 @@
 
 
 <h2><li>241009</li></h2>
+<p><li>quiz2: Biçimlendirme Etiketi İç İçe Liste ve Tablo Oluşturma</li></p>
 <p><li>index: Tabloya Resim Ekleme ve Görsel İşleme Manav</li></p>
 <p><li>mevsimler: aynı İstanbul'un Mevsimleri</li></p>
 <p><li>ogrencikartı: aynı Öğrenci Kartı Oluşturma</li></p>
