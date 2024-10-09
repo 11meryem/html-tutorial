@@ -15,3 +15,9 @@
 <p><li>table2: Tablo İçinde Colspan Rowspan ve Caption Öğrenme</li></p>
 <p><li>table3: table2 ile Aynı</li></p>
 <p><li>liste2: İç İçe Liste Yapma</li></p>
+
+
+<h2><li>241009</li></h2>
+<p><li>index: Tabloya Resim Ekleme ve Görsel İşleme Manav</li></p>
+<p><li>mevsimler: aynı İstanbul'un Mevsimleri</li></p>
+<p><li>ogrencikartı: aynı Öğrenci Kartı Oluşturma</li></p>
