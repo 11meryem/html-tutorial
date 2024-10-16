@@ -22,3 +22,11 @@
 <p><li>index: Tabloya Resim Ekleme ve Görsel İşleme Manav</li></p>
 <p><li>mevsimler: aynı İstanbul'un Mevsimleri</li></p>
 <p><li>ogrencikartı: aynı Öğrenci Kartı Oluşturma</li></p>
+
+
+<h2><li>241026</li></h2>
+<p><li>quiz2cozum: Biçimlendirme Etiketi İç İçe Liste ve Tablo Oluşturma çözüm</li></p>
+<p><li>resimkart: Resimli Öğrenci Kartı</li></p>
+<p><li>resimornek: Picsum'dan Rastgele Resim Ekleme</li></p>
+<p><li>videoornek: Alt Alta Video Ekleme ve <video> Etiketi Kullanımı</li></p>
+<p><li>videotablo: Videolu Tablo Oluşturma</li></p>
