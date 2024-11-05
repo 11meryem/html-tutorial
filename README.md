@@ -32,4 +32,4 @@
 <p><li>videotablo: Videolu Tablo Oluşturma</li></p>
 
 <h2><li>241023</li></h2>
-<p><li>bir şeyler yaptık</li></p>
+<p><li>Birleştirme bir şeyler yaptık</li></p>
